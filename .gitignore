@@ -1,0 +1,9 @@
+MPD.Entities/bin/
+MPD.Entities/obj/
+MPD.Repository/bin/
+MPD.Service/bin/
+MPD.UI.Core/bin/
+MPD.UI.Core/obj/
+packages/
+MPD.Service/obj/
+MPD.Repository/obj/
